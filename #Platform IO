@@ -1,0 +1,6 @@
+#Platform IO
+nano ~/.bashrc
+export PATH="$PATH:/usr/bin/python3"
+source ~/.bashrc
+sudo apt install python3-distutils
+sudo apt-get install python3.xx-venv
